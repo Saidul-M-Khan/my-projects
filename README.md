@@ -7,7 +7,7 @@
 - Honda CBR 300R Landing Page (CSS3, HTML5, Bootstrap5): https://live-honda-cbr-website.netlify.app/
 
 ### Responsive Web Development Project
-- Book Archive Search Engine (ES6, javascript, CSS3, HTML5, Bootstrap5, API): https://book-archive-openlibrary.netlify.app
+- Book Archive Search Engine (ES6, javascript, CSS3, HTML5, Bootstrap5, API): https://saidul-m-khan.github.io/Book-Archive/index.html
 
 ### React Project
 - Mentor Society - Mentor Finder Website (React, JSX, REST API, Javascript, ES6, CSS3, Bootstrap5): https://mentors-society.netlify.app
